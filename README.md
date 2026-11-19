@@ -1,4 +1,4 @@
-<div align="center">Hey, I'm Binayak Kattel. 👋
+<div align="center">Hey, I'm **Binayak Kattel**. 👋
 IT Infrastructure | Network Engineering | Intelligent Automation
 
 I build, manage, and troubleshoot technology systems — and explore smarter ways to get things done.
