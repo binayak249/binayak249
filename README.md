@@ -1,65 +1,75 @@
-👋 Hi, I'm Binayak Kattel.
-🖥️ IT Professional | Network & Systems Administrator | Developer
-I work at the intersection of IT infrastructure, networking, and software development. I enjoy solving real-world technical problems, building useful applications, and learning how systems work from the network layer to the application layer.
-
-Currently focused on strengthening my skills in network engineering, system administration, backend development, and secure server deployment.
-🚀 About Me
-- 💼 Working in IT operations and infrastructure
-- 🌐 Interested in network engineering, routing, switching, VLANs, VPNs, and firewall security
-- 🛡️ Working with FortiGate firewalls and Cisco networking equipment
-- 🪟 Exploring Windows Server, Active Directory, Group Policy, and Hyper-V
-- 🐧 Learning Linux and Ubuntu server administration
-- 💻 Building web applications with HTML, CSS, JavaScript, and Node.js
-- ☁️ Exploring VPS hosting, application deployment, Nginx, and server security
-- 🧪 Learning through hands-on labs, troubleshooting, and practical projects
-- 📍 Nepal
-🛠️ Tech Stack
-Networking & Infrastructure
-
-
-
-
-
-Programming & Web Development
-
-
-
-
-
-Databases, Platforms & Tools
-
-
-
-
-
-💻 Featured Projects
-Project	Description	Technologies
-IT Ticketing System	A web-based concept for submitting, managing, and tracking IT support requests	HTML, CSS, JavaScript, Node.js
-Meeting Booking System	A booking application concept for managing meeting schedules and requests	JavaScript, Node.js, Supabase
-IT Tools & Utilities	Small tools and experiments designed to simplify everyday IT tasks	JavaScript, Node.js
-Networking Labs	Hands-on practice with VLANs, switching, routing, and network troubleshooting	Cisco Packet Tracer, Cisco
-Self-hosted Applications	Learning to deploy and manage web applications on a Linux VPS	Ubuntu, Nginx, SSH
-
-
-Projects are at different stages of development and learning. Check my repositories for the latest work.
-📚 Currently Learning
-- CCNA 200-301: networking fundamentals through advanced switching and routing
-- FortiGate firewall policies, VPNs, and network security
-- Windows Server, Active Directory, DNS, DHCP, and Group Policy
-- Linux server administration and secure VPS management
-- REST APIs, backend development, and database integration
-- C/C++, WebAssembly, and browser-based technologies
-📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>🌐 Connect With Me
-- GitHub: @YOUR-GITHUB-USERNAME
-- LinkedIn: Add your LinkedIn profile
-<p align="center">
-  <i>"Learn by building. Improve by troubleshooting. Grow by sharing."</i>
-</p><p align="center">
-  ⭐ Thanks for visiting my profile!
+<div align="center">Hey, I'm [Binayak Kattel] 👋
+IT Infrastructure • Network Engineering • AI-Powered Automation
+Building reliable systems, exploring intelligent automation, and solving practical technology challenges.
+<p>
+  <img src="https://img.shields.io/badge/Focus-Network%20%26%20Infrastructure-2563EB?style=for-the-badge" alt="Network and infrastructure" />
+  <img src="https://img.shields.io/badge/Exploring-AI%20Agents-7C3AED?style=for-the-badge" alt="AI agents" />
+  <img src="https://img.shields.io/badge/Based%20in-Nepal-DC2626?style=for-the-badge" alt="Based in Nepal" />
 </p>
+GitHub · LinkedIn
+</div>🧑‍💻 About Me
+I'm an IT professional with a hands-on interest in network infrastructure, system administration, cybersecurity, and AI-powered solutions.
+
+My work and learning span from configuring enterprise networks and managing servers to experimenting with AI agents that can accelerate development, automate workflows, and solve complex problems.
+- 🌐 Network infrastructure, routing, switching, VLANs, VPNs, and firewall management
+- 🖥️ Windows Server, Active Directory, Group Policy, DNS, DHCP, and virtualization
+- 🐧 Linux administration, Ubuntu servers, SSH, VPS hosting, and deployment
+- 🤖 Exploring agentic AI workflows, AI-assisted engineering, and intelligent automation
+- 🔐 Interested in infrastructure security, access control, and reliable system operations
+- 🧪 Learning by building labs, testing ideas, and troubleshooting real-world scenarios
+- 📍 Nepal
+🤖 AI Agents & Development Tools
+I explore modern AI tools as engineering assistants for research, problem-solving, software development, and workflow automation.
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Cursor-AI%20Code%20Editor-111827?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic%20Models-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude models" />
+  <img src="https://img.shields.io/badge/Google-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+</p>
+Areas of interest
+- AI coding agents and multi-step agentic workflows
+- Prompt design, context management, and AI-assisted problem solving
+- Using AI agents to plan, build, test, and improve applications
+- Workflow automation and connecting tools through APIs
+- Evaluating model capabilities, reliability, and practical use cases
+I use these tools as part of an evolving learning and experimentation journey—not as a claim of expertise in every platform or model.
+🛠️ Technical Skills & Technologies
+Area	Technologies & Tools
+Networking	Cisco, Fortinet / FortiGate, VLANs, routing, switching, VPNs
+Systems	Windows Server, Active Directory, Group Policy, Hyper-V
+Linux & Hosting	Ubuntu, Linux administration, SSH, VPS, Nginx
+Cloud & Backend Platforms	Supabase, REST APIs, server deployment
+Development Tools	Git, GitHub, Visual Studio Code, Node.js
+AI & Agentic Tools	OpenAI Codex, Cursor, Claude models, Google Antigravity
+Networking Labs	Cisco Packet Tracer, practical network troubleshooting
+
+
+🚀 Projects & Areas I'm Working On
+🧰 IT Ticketing System
+A practical support workflow concept for reporting, assigning, and tracking IT issues.
+📅 Meeting Booking Platform
+A web-based booking system concept with scheduling workflows and database integration.
+🖥️ Infrastructure & Network Labs
+Hands-on experiments involving VLANs, switching, routing, firewall policies, VPN connectivity, and network troubleshooting.
+☁️ Self-Hosted Services
+Learning to deploy, secure, and maintain applications on Linux-based VPS infrastructure.
+🤖 AI-Assisted Automation
+Experimenting with AI agents to streamline development tasks, research technical solutions, and automate repetitive workflows.
+These represent ongoing projects and learning areas. Visit my repositories for the latest published work.
+
+📖 Current Learning Journey
+- Networking: CCNA 200-301, advanced switching, routing, and network security
+- Infrastructure: Windows Server, Active Directory, DNS, DHCP, and Group Policy
+- Linux: Server administration, SSH security, deployment, and service management
+- AI Engineering: Agentic workflows, coding agents, model capabilities, and automation
+- Systems Design: APIs, database integration, application architecture, and deployment
+📈 GitHub Overview
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>🤝 Let's Connect
+I'm interested in technology, infrastructure, AI agents, automation, and learning from people who build useful things.
+- GitHub: @YOUR-GITHUB-USERNAME
+- LinkedIn: Connect with me
+<div align="center">⚡ Learn continuously. Build practically. Automate intelligently.
+Thanks for stopping by! Feel free to explore my repositories.
+</div>
