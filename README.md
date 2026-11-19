@@ -1,63 +1,65 @@
-Hi, I'm an IT Professional & Developer 👋
-I'm an IT professional based in Nepal with a strong interest in networking, systems administration, infrastructure, and software development. I enjoy understanding how technology works, solving real-world technical problems, and building practical tools that make everyday work easier.
+👋 Hi, I'm Binayak Kattel.
+🖥️ IT Professional | Network & Systems Administrator | Developer
+I work at the intersection of IT infrastructure, networking, and software development. I enjoy solving real-world technical problems, building useful applications, and learning how systems work from the network layer to the application layer.
 
-I’m continuously learning, experimenting, and turning ideas into working projects.
-👨‍💻 About Me
-- 🖥️ Interested in IT infrastructure, network administration, and system security
-- 🌐 Working with networking concepts such as VLANs, routing, switching, firewalls, and VPNs
+Currently focused on strengthening my skills in network engineering, system administration, backend development, and secure server deployment.
+🚀 About Me
+- 💼 Working in IT operations and infrastructure
+- 🌐 Interested in network engineering, routing, switching, VLANs, VPNs, and firewall security
+- 🛡️ Working with FortiGate firewalls and Cisco networking equipment
 - 🪟 Exploring Windows Server, Active Directory, Group Policy, and Hyper-V
-- 🐧 Learning Linux and Ubuntu server administration, including SSH, users and permissions, Nginx, DNS, SSL/TLS, and service management
-- 💻 Building and experimenting with web applications using HTML, CSS, JavaScript, and Node.js
-- 🔌 Learning to work with REST APIs, JSON, HTTP requests, and token-based authentication
-- ☁️ Exploring VPS hosting, deployment, reverse proxies, databases, and application management
-- 🚀 Interested in C/C++, WebAssembly, Emscripten, WebGL/WebGPU, and browser-based applications
-🛠️ Technologies & Tools
+- 🐧 Learning Linux and Ubuntu server administration
+- 💻 Building web applications with HTML, CSS, JavaScript, and Node.js
+- ☁️ Exploring VPS hosting, application deployment, Nginx, and server security
+- 🧪 Learning through hands-on labs, troubleshooting, and practical projects
+- 📍 Nepal
+🛠️ Tech Stack
 Networking & Infrastructure
-- FortiGate, Cisco switching, VLANs, routing, VPNs
-- Windows Server, Active Directory, Group Policy, Hyper-V
-- Ubuntu, Linux administration, SSH, Nginx
-Development
-- HTML, CSS, JavaScript, Node.js
-- REST APIs, JSON, HTTP/HTTPS
-- Exploring C/C++, WebAssembly, Emscripten, WebGL, and WebGPU
-Platforms & Tools
-- Git & GitHub
-- Visual Studio Code
-- Cisco Packet Tracer
-- Supabase
-- VPS deployment and server management
-🚧 What I'm Building & Learning
-- Meeting Booking System — developing a web-based system for managing meeting bookings.
-- IT Ticketing System — exploring a ticketing workflow for reporting and tracking technical issues.
-- Self-hosted Applications — learning to deploy and manage applications on an Ubuntu VPS.
-- Networking Labs — practising switching, VLANs, routing, and network troubleshooting.
-- Browser Technology Experiments — exploring how C/C++ projects can run in browsers through WebAssembly.
-Some of these are ongoing learning projects, and I’ll share more as they become ready.
-📚 Currently Learning
-- Advanced networking and CCNA 200-301 concepts
-- Linux server administration and secure VPS management
-- Windows Server and Active Directory administration
-- Backend development, APIs, and database integration
-- Secure deployment with Nginx, DNS, and HTTPS
-- C/C++ and WebAssembly for browser-based applications
-🎯 My Approach
-I believe in learning by doing: building labs, troubleshooting real problems, documenting what I learn, and improving projects step by step.
 
-I'm always interested in practical technology, open-source projects, and opportunities to learn from the developer and IT community.
-🤝 Connect
+
+
+
+
+Programming & Web Development
+
+
+
+
+
+Databases, Platforms & Tools
+
+
+
+
+
+💻 Featured Projects
+Project	Description	Technologies
+IT Ticketing System	A web-based concept for submitting, managing, and tracking IT support requests	HTML, CSS, JavaScript, Node.js
+Meeting Booking System	A booking application concept for managing meeting schedules and requests	JavaScript, Node.js, Supabase
+IT Tools & Utilities	Small tools and experiments designed to simplify everyday IT tasks	JavaScript, Node.js
+Networking Labs	Hands-on practice with VLANs, switching, routing, and network troubleshooting	Cisco Packet Tracer, Cisco
+Self-hosted Applications	Learning to deploy and manage web applications on a Linux VPS	Ubuntu, Nginx, SSH
+
+
+Projects are at different stages of development and learning. Check my repositories for the latest work.
+📚 Currently Learning
+- CCNA 200-301: networking fundamentals through advanced switching and routing
+- FortiGate firewall policies, VPNs, and network security
+- Windows Server, Active Directory, DNS, DHCP, and Group Policy
+- Linux server administration and secure VPS management
+- REST APIs, backend development, and database integration
+- C/C++, WebAssembly, and browser-based technologies
+📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>🌐 Connect With Me
 - GitHub: @YOUR-GITHUB-USERNAME
 - LinkedIn: Add your LinkedIn profile
-<!--
-**binayak249/binayak249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>"Learn by building. Improve by troubleshooting. Grow by sharing."</i>
+</p><p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
